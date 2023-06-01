@@ -8,7 +8,7 @@
 <h2>Descrição do projeto </h2>
 <p>
   Projeto de automação utilizando a ferramenta Uipath realizado após os estudos do curso Decisions and Iterations, utilizando as 
-  seguintes activities: Excel (use file, forEach and WrtiteCell) e Use application (App: DoubleUI).
+  seguintes activities: Excel (forEach and Write Cell) e Use application (App: DoubleUI).
 </p>
 
 <h2>Demonstração de aplicação</h2>
